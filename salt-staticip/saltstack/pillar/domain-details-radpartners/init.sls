@@ -1,0 +1,10 @@
+domain-name:
+    radpartners.com
+domain-join-username:
+    svcDomJoin
+domain-join-password:
+    sn75YXzYiJ9A3KS1AAIV
+domain-time-server:
+    10.21.20.21
+domain-join-target-ou:
+    OU=Servers,OU=Computers,OU=RP,DC=radpartners,DC=com
